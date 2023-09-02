@@ -1,5 +1,5 @@
 #includestido>
 voidmain()
 (
-printf("hellowworld");
+printf("hellofycs");
 )
