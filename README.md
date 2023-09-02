@@ -1,1 +1,5 @@
-# hello-world
+#includestido>
+voidmain()
+(
+printf("hellowworld");
+)
